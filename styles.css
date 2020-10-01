@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  margin: 20px;
+}
+
+.shape {
+margin: 200px 50px;
+display: inline-block;
+}
+
+
+.gray {
+  background-color: #B7B4B8;
+  height: 100px;
+  width: 100px;
+}
+
+.pressed{
+opacity: 0.5;
+
+}
