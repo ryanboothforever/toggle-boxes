@@ -4,8 +4,8 @@ body {
 }
 
 .shape {
-margin: 200px 50px;
-display: inline-block;
+  margin: 200px 50px;
+  display: inline-block;
 }
 
 
@@ -16,6 +16,5 @@ display: inline-block;
 }
 
 .pressed{
-opacity: 0.5;
-
+  opacity: 0.5;
 }
